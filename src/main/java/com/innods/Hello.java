@@ -19,20 +19,16 @@ package com.innods;
 
 
 /**
- *
  * @author Jin Kwon <onacit at gmail.com>
  */
 public class Hello {
 
 
     /**
-     *
-     * @param args
+     * @param args the arguments of this program
      */
     public static void main(final String[] args) {
 
         System.out.printf("hello, world\n");
     }
-
-
 }
